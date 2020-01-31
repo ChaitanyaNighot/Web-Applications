@@ -1,0 +1,176 @@
+#user1msgSending{
+	color:white;
+    background-color: grey;
+    width: auto;
+    padding:10px;
+    margin-top: 2px;
+    height: auto;
+    float:right;
+    max-width: 180px;
+    overflow-wrap: break-word;
+    clear:both;
+    border-radius: 8px;
+}
+#user2msgReceiving{
+	color:white;
+    background-color: #8FBC8F;
+    width: auto;
+    padding:10px;
+    margin-top: 2px;
+    height: auto;
+    float:left;
+    max-width: 180px;
+    overflow-wrap: break-word;
+     clear:both;
+     border-radius: 8px;
+}
+#user2msgSending{
+	color:white;
+    background-color: grey;
+    width: auto;
+    padding:10px;
+    margin-top: 2px;
+    height: auto;
+    float:right;
+    max-width: 180px;
+    overflow-wrap: break-word;
+    clear:both;
+    border-radius: 8px;
+}
+#user1msgReceiving{
+	color:white;
+    background-color: #8FBC8F;
+    width: auto;
+    padding:10px;
+    margin-top: 2px;
+    height: auto;
+    float:left;
+    max-width: 180px;
+    overflow-wrap: break-word;
+     clear:both;
+     border-radius: 8px;
+}
+#user1Pic{
+	border-radius: 50%;
+	float:right;
+	margin-right: 200px;
+	margin-top: 5px;
+}
+#user2Pic{
+	border-radius: 50%;
+	float:right;
+	margin-right: 190px;
+	margin-top: 5px;
+}
+#chatBox{
+	border:1px solid blue;
+	height:650px;
+	width:100%;
+}
+#header{
+	text-align: center;
+	padding:20px;
+	font-size: 40px;
+	background-color: rgb(26, 26, 68);
+	color:white;
+}
+#footer{
+	text-align: center;
+	padding:7px;
+	font-size: 20px;
+	background-color: blue;
+	color:white;
+	clear: left;
+	margin-top:526px;
+}
+#user1{
+	border:3px solid rgb(26, 26, 68);
+	float:left;
+	height:70%;
+	width:35%;
+	margin-top: 20px;
+	margin-left: 100px
+}
+#user2{
+	border:3px solid rgb(26, 26, 68);
+	float:right;
+	height:70%;
+	width:35%;
+	margin-top: 20px;
+	margin-right: 100px;
+}
+#userName1{
+	margin-left: 150px;
+    color:gray;
+	margin-top:7px;
+	font-size: 30px;
+	font-weight: bold;
+	float: left;
+}
+#userName2{
+	margin-left: 140px;
+	color:gray;
+	margin-top:7px;
+	font-size: 30px;
+	font-weight: bold;
+    float: left;
+}
+#user1Chat{
+	height: 76%;
+	width:95%;
+	margin-left: 10px;
+}
+#user2Chat{
+	height: 76%;
+	width:95%;
+	margin-left: 10px;
+}
+#inputBox1{
+    background-color: rgb(210, 223, 241);
+    height: 55px;
+}
+#inputBox2{
+    background-color: rgb(210, 223, 241);
+    height: 55px;
+}
+input{
+	margin-top: 6px;
+	margin-left: 10px;	
+	width: 80%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid rgb(26, 26, 68);
+    border-radius: 4px;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#user1msgSendingDate{
+      clear: both;
+      float: right;
+}
+#user2msgReceivingDate{
+	clear: both;
+	float: left;
+}
+#user2msgSendingDate{
+	clear: both;
+	float: right;
+}
+#user1msgReceivingDate{
+	clear: both;
+	float: left;
+}
+.scroll{
+	overflow: auto;
+}
